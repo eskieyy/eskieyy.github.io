@@ -24,7 +24,7 @@
 }
 
 .ds4.white .button {
-    background-image: url(facemodmod.png);
+    background-image: url(dpadmod.png);
 }
 
 .ds4.white .stick {
@@ -32,7 +32,7 @@
 }
 
 .ds4.white .face {
-    background-image: url(dpadmod.png);
+    background-image: url(facemod.png);
 }
 
 /*END PS4 White Controller Styling*/
